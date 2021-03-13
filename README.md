@@ -1,11 +1,12 @@
-# JAVA - Network #
+# JAVA - SQLiteTutorial #
 
-Let RuntimePermission support
+Let SQLiteTutorial support
 
-- Single Permission
-- Multiple Permission
-- With Custom UI
-- With Permission Callback
+- Insert, Update, Delete Operation
+- Add image on SQLite Database
+- Import From Assets
+- Import From External Storage
+- Export On External Storage
 
 |           Click on + button       |                 2                 |                 3                 |              Insert              |
 |-----------------------------------|-----------------------------------|-----------------------------------|----------------------------------|
@@ -19,9 +20,10 @@ Let RuntimePermission support
 |-----------------------------------|-----------------------------------|-----------------------------------|----------------------------------|
 | <img src="art/9.png" width="250"> | <img src="art/10.png" width="250">| <img src="art/11.png" width="250">|<img src="art/12.png" width="250">|
 
-|        Select locatin where create exportDirectory Using SAF          |                 2                 |                 3                 2                 
-|-----------------------------------------------------------------------|-----------------------------------|-----------------------------------|----------------------------------|
-| 		<img src="art/13.png" width="250">                      |<img src="art/14.png" width="250"> |<img src="art/15.png" width="250"> |
+|        Select locatin where create exportDirectory Using SAF          |    2            |           3        |                 2                |              
+|-----------------------------------------------------------------------|-----------------|--------------------|----------------------------------|
+| <img src="art/13.png" width="250"> | <img src="art/14.png" width="250"> | <img src="art/15.png" width="250"> |<img src="art/16.png" width="250">|
+
 ## Author ##
 
 Rohit Yadav
