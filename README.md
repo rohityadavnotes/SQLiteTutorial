@@ -20,9 +20,9 @@ Let SQLiteTutorial support
 |-----------------------------------|-----------------------------------|-----------------------------------|----------------------------------|
 | <img src="art/9.png" width="250"> | <img src="art/10.png" width="250">| <img src="art/11.png" width="250">|<img src="art/12.png" width="250">|
 
-|        Select locatin where create exportDirectory Using SAF          |    2            |           3        |                 2                |              
-|-----------------------------------------------------------------------|-----------------|--------------------|----------------------------------|
-| <img src="art/13.png" width="250"> | <img src="art/14.png" width="250"> | <img src="art/15.png" width="250"> |<img src="art/16.png" width="250">|
+|create exportDirectory Using SAF    |               2                  |                    3                 |                 2                |              
+|------------------------------------|----------------------------------|--------------------------------------|----------------------------------|
+| <img src="art/13.png" width="250"> |<img src="art/14.png" width="250">| <img src="art/15.png" width="250">   |<img src="art/16.png" width="250">|
 
 ## Author ##
 
