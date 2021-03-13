@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Material Rounded and Cut Corner Style -->
+    <style name="CornerStyle" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">cut</item>
+        <item name="cornerSize">@dimen/_10sdp</item>
+    </style>
+
+    <!-- Edit Text Style -->
+    <style name="EditText" parent="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+        <!-- box shape -->
+        <item name="shapeAppearance">@style/CornerStyle</item>
+
+        <!-- box border -->
+        <item name="boxStrokeColor">@color/outlined_box_text_input_layout_border</item>
+        <item name="boxStrokeWidth">@dimen/_1sdp</item>
+        <item name="boxBackgroundColor">@android:color/transparent</item>
+
+        <!-- hint color -->
+        <item name="hintTextColor">@color/colorActiveHint</item> <!-- active hint color -->
+        <item name="android:textColorHint">@color/colorInactiveHint</item> <!-- inactive hint color -->
+
+        <!-- hint message text size -->
+        <item name="hintTextAppearance">@style/MediumFont12</item>
+
+        <!-- error color -->
+        <item name="boxStrokeErrorColor">@color/colorError</item> <!-- box border color -->
+        <item name="errorTextColor">@color/colorError</item> <!-- error message color -->
+        <item name="errorEnabled">true</item> <!-- error message color -->
+        <item name="errorIconTint">@color/colorError</item> <!-- error icon color -->
+
+        <!-- error message font and text size -->
+        <item name="errorTextAppearance">@style/BoldFont10</item>
+
+        <!-- text counter color -->
+        <item name="counterTextColor">@color/colorPrimary</item>
+        <!-- counter text font and text size -->
+        <item name="counterTextAppearance">@style/RegularFont10</item>
+
+        <!-- text counter color after more then maximum-->
+        <item name="counterOverflowTextColor">@color/colorAccent</item> <!-- error message color -->
+        <!-- counter more then maximum text font and text size -->
+        <item name="counterOverflowTextAppearance">@style/RegularFont10</item>
+    </style>
+
+    <!-- Button Style -->
+    <style name="Button" parent="@style/Widget.MaterialComponents.Button.UnelevatedButton">
+        <item name="shapeAppearance">@style/CornerStyle</item>
+        <item name="rippleColor">@color/colorButtonPressed</item>
+        <item name="android:textAppearance">@style/BoldFont20</item>
+    </style>
+
+    <!-- Language Tab Style -->
+    <style name="LanguageCut" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">cut</item>
+        <item name="cornerSize">@dimen/_10sdp</item>
+    </style>
+
+    <style name="Language" parent="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon">
+        <item name="shapeAppearance">@style/LanguageCut</item>
+        <item name="android:textAppearance">@style/RegularFont14</item>
+    </style>
+
+    <!-- Drop Down Edit Text Style -->
+    <style name="DropDownEditText" parent="@style/Widget.MaterialComponents.TextInputLayout.FilledBox.ExposedDropdownMenu">
+
+        <!-- box shape -->
+        <item name="shapeAppearance">@style/CornerStyle</item>
+
+        <!-- box border -->
+        <item name="boxStrokeColor">@color/outlined_box_text_input_layout_border</item>
+        <item name="boxStrokeWidth">@dimen/_1sdp</item>
+
+        <!-- hint color -->
+        <item name="hintTextColor">@color/colorActiveHint</item> <!-- active hint color -->
+        <item name="android:textColorHint">@color/colorInactiveHint</item> <!-- inactive hint color -->
+
+        <!-- error color -->
+        <item name="boxStrokeErrorColor">@color/colorError</item> <!-- box border color -->
+        <item name="errorTextColor">@color/colorError</item> <!-- error message color -->
+        <item name="errorEnabled">true</item> <!-- error message color -->
+        <item name="errorIconTint">@color/colorError</item> <!-- error icon color -->
+
+        <!-- error message font and text size -->
+        <item name="errorTextAppearance">@style/RegularFont12</item>
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SQLite Tutorial</string>
+
+    <string name="confirm_exit">Confirm Exit</string>
+    <string name="are_you_sure_you_want_to_exit">Are you sure, You want to exit ?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+
+    <!-- Permission Dialog -->
+    <string name="close">Close</string>
+    <string name="settings">Settings</string>
+    <string name="permission_never_ask_again_alert_dialog_message">Kindly allow Camera Permission from Settings, without this permission the app is unable to provide photo capture feature.\n\nPlease turn on permissions at [Setting] -> [Permissions]></string>
+    <string name="camera_permission">Camera Permission</string>
+    <string name="permission_denied_then_alert_dialog_message">Kindly allow Camera Permission, without this permission the app is unable to provide photo capture feature</string>
+    <string name="ok">OK</string>
+</resources>

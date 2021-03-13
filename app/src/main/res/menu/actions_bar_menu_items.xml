@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sqlite.tutorial.MainActivity">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:orderInCategory="1"
+        android:title="Search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+    <item
+        android:id="@+id/action_insert"
+        android:icon="@drawable/ic_add"
+        android:orderInCategory="2"
+        android:title="Insert"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+    <!-- to enable overflow menu with icons we have to do like below -->
+    <item
+        android:id="@+id/action_more"
+        android:icon="@drawable/ic_more"
+        android:orderInCategory="3"
+        android:title=""
+        app:showAsAction="ifRoom|collapseActionView">
+        <menu>
+
+            <item
+                android:id="@+id/action_import_from_assets"
+                android:title="Import From Assets" />
+
+            <item
+                android:id="@+id/action_import_from_sdcard"
+                android:title="Import From SDCard" />
+
+            <item
+                android:id="@+id/action_export"
+                android:title="Export DB" />
+        </menu>
+    </item>
+</menu>

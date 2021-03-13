@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    ***************************************************************************
+    ***************************************************************************
+    ******************** Note : Font name is Montserrat ***********************
+    ***************************************************************************
+    ***************************************************************************
+    -->
+
+    <!-- Text Size With Font Montserrat SemiBold -->
+    <style name="BoldFont1" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_1sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont2" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_2sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont3" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_3sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont4" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_4sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont5" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_5sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont6" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_6sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont7" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_7sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont8" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_8sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont9" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_9sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont10" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_10sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont11" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_11sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont12" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_12sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont13" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_13sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont14" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_14sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont15" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_15sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont16" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_16sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont17" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_17sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont18" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_18sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont19" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_19sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont20" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_20sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont21" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_21sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont22" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_22sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont23" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_23sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont24" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_24sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont25" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_25sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont26" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_26sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont27" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_27sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont28" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_28sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont29" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_29sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont30" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_30sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont31" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_31sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont32" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_32sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont33" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_33sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont34" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_34sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont35" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_35sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont36" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_36sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont37" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_37sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont38" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_38sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont39" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_39sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <style name="BoldFont40" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_40sdp</item>
+        <item name="android:fontFamily">@font/bold</item>
+    </style>
+
+    <!-- Text Size With Font Montserrat Medium -->
+    <style name="MediumFont1" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_1sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont2" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_2sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont3" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_3sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont4" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_4sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont5" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_5sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont6" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_6sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont7" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_7sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont8" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_8sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont9" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_9sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont10" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_10sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont11" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_11sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont12" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_12sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont13" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_13sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont14" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_14sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont15" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_15sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont16" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_16sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont17" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_17sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont18" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_18sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont19" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_19sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont20" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_20sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont21" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_21sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont22" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_22sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont23" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_23sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont24" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_24sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont25" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_25sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont26" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_26sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont27" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_27sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont28" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_28sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont29" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_29sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont30" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_30sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont31" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_31sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont32" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_32sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont33" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_33sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont34" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_34sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont35" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_35sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont36" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_36sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont37" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_37sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont38" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_38sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont39" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_39sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <style name="MediumFont40" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_40sdp</item>
+        <item name="android:fontFamily">@font/medium</item>
+    </style>
+
+    <!-- Text Size With Font Montserrat Regular -->
+    <style name="RegularFont1" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_1sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont2" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_2sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont3" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_3sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont4" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_4sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont5" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_5sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont6" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_6sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont7" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_7sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont8" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_8sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont9" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_9sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont10" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_10sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont11" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_11sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont12" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_12sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont13" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_13sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont14" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_14sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont15" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_15sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont16" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_16sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont17" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_17sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont18" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_18sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont19" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_19sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont20" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_20sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont21" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_21sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont22" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_22sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont23" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_23sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont24" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_24sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont25" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_25sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont26" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_26sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont27" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_27sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont28" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_28sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont29" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_29sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont30" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_30sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont31" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_31sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont32" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_32sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont33" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_33sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont34" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_34sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont35" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_35sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont36" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_36sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont37" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_37sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont38" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_38sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont39" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_39sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <style name="RegularFont40" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_40sdp</item>
+        <item name="android:fontFamily">@font/regular</item>
+    </style>
+
+    <!-- Text Size With Font Montserrat Light -->
+    <style name="LightFont1" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_1sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont2" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_2sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont3" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_3sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont4" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_4sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont5" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_5sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont6" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_6sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont7" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_7sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont8" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_8sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont9" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_9sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont10" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_10sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont11" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_11sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont12" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_12sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont13" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_13sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont14" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_14sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont15" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_15sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont16" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_16sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont17" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_17sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont18" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_18sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont19" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_19sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont20" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_20sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont21" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_21sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont22" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_22sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont23" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_23sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont24" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_24sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont25" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_25sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont26" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_26sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont27" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_27sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont28" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_28sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont29" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_29sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont30" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_30sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont31" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_31sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont32" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_32sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont33" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_33sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont34" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_34sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont35" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_35sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont36" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_36sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont37" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_37sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont38" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_38sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont39" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_39sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <style name="LightFont40" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_40sdp</item>
+        <item name="android:fontFamily">@font/light</item>
+    </style>
+
+    <!-- Text Size With Font Montserrat ExtraLight -->
+    <style name="ExtraLightFont1" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_1sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont2" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_2sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont3" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_3sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont4" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_4sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont5" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_5sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont6" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_6sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont7" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_7sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont8" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_8sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont9" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_9sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont10" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_10sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont11" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_11sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont12" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_12sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont13" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_13sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont14" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_14sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont15" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_15sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont16" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_16sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont17" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_17sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont18" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_18sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont19" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_19sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont20" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_20sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont21" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_21sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont22" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_22sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont23" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_23sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont24" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_24sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont25" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_25sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont26" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_26sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont27" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_27sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont28" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_28sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont29" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_29sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont30" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_30sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont31" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_31sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont32" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_32sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont33" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_33sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont34" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_34sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont35" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_35sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont36" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_36sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont37" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_37sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont38" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_38sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont39" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_39sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <style name="ExtraLightFont40" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_40sdp</item>
+        <item name="android:fontFamily">@font/extra_light</item>
+    </style>
+
+    <!-- Text Size With Font Montserrat Thin -->
+    <style name="ThinFont1" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_1sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont2" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_2sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont3" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_3sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont4" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_4sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont5" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_5sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont6" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_6sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont7" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_7sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont8" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_8sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont9" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_9sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont10" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_10sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont11" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_11sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont12" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_12sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont13" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_13sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont14" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_14sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont15" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_15sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont16" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_16sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont17" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_17sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont18" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_18sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont19" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_19sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont20" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_20sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont21" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_21sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont22" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_22sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont23" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_23sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont24" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_24sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont25" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_25sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont26" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_26sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont27" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_27sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFon28" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_28sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont29" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_29sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont30" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_30sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont31" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_31sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont32" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_32sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont33" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_33sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont34" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_34sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont35" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_35sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont36" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_36sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont37" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_37sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFon38" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_38sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont39" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_39sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+
+    <style name="ThinFont40" parent="AppBaseTheme">
+        <item name="android:textSize">@dimen/_40sdp</item>
+        <item name="android:fontFamily">@font/thin</item>
+    </style>
+</resources>

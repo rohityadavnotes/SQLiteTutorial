@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_pressed="true">
+        <layer-list>
+            <item>
+                <shape
+                    android:shape="rectangle">
+
+                    <solid
+                        android:color="@color/colorButtonPressed" />
+
+                    <stroke
+                        android:color="@color/colorButtonPressed"
+                        android:width="@dimen/_1sdp"/>
+
+                    <corners
+                        android:bottomLeftRadius="0dp"
+                        android:bottomRightRadius="0dp"
+                        android:topLeftRadius="0dp"
+                        android:topRightRadius="0dp" />
+
+                    <padding
+                        android:bottom="0dp"
+                        android:left="0dp"
+                        android:right="0dp"
+                        android:top="0dp" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+
+    <item>
+        <layer-list>
+            <item>
+                <shape
+                    android:shape="rectangle">
+
+                    <solid
+                        android:color="@color/colorButtonUnPressed" />
+
+                    <stroke
+                        android:color="@color/colorButtonUnPressed"
+                        android:width="@dimen/_1sdp"/>
+
+                    <corners
+                        android:bottomLeftRadius="0dp"
+                        android:bottomRightRadius="0dp"
+                        android:topLeftRadius="0dp"
+                        android:topRightRadius="0dp" />
+
+                    <padding
+                        android:bottom="0dp"
+                        android:left="0dp"
+                        android:right="0dp"
+                        android:top="0dp" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>
